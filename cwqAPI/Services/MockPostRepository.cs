@@ -27,21 +27,20 @@ namespace cwqAPI.Services
             {
                 new Post {
                     Id = Guid.NewGuid(),
-                    Title = "黄山",
-                    Description="黄山真好玩",
-                    OriginalPrice = 1299,
-                    Features = "<p>吃住行游购娱</p>",
-                    Fees = "<p>交通费用自理</p>",
-                    Notes="<p>小心危险</p>"
+                    Username="狗狗主人",
+                    Gender="男",
+                    Grade=5,
+                    Title = "狗狗已经好几天没吃饭了。",
+                    Content="狗狗这几天闷闷不乐的，饭就只吃了一点点，怎么回事。"
+                    
                 },
                 new Post {
                     Id = Guid.NewGuid(),
-                    Title = "华山",
-                    Description="华山真好玩",
-                    OriginalPrice = 1299,
-                    Features = "<p>吃住行游购娱</p>",
-                    Fees = "<p>交通费用自理</p>",
-                    Notes="<p>小心危险</p>"
+                    Username="猫咪主人",
+                    Gender="女",
+                    Grade=5,
+                    Title = "猫咪越来越大了。",
+                    Content="刚开始养它的时候比拳头还小，喂了一周多已经这么胖了！！"
                 }
             };
         }

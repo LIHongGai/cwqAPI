@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\41\\PracticeAPI\\cwqAPI\\cwqAPI\\cwqAPI.csproj": {}
+    "D:\\c\\API\\cwqAPI\\cwqAPI\\cwqAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\41\\PracticeAPI\\cwqAPI\\cwqAPI\\cwqAPI.csproj": {
+    "D:\\c\\API\\cwqAPI\\cwqAPI\\cwqAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\41\\PracticeAPI\\cwqAPI\\cwqAPI\\cwqAPI.csproj",
+        "projectUniqueName": "D:\\c\\API\\cwqAPI\\cwqAPI\\cwqAPI.csproj",
         "projectName": "cwqAPI",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\41\\PracticeAPI\\cwqAPI\\cwqAPI\\cwqAPI.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\41\\PracticeAPI\\cwqAPI\\cwqAPI\\obj\\",
+        "projectPath": "D:\\c\\API\\cwqAPI\\cwqAPI\\cwqAPI.csproj",
+        "packagesPath": "C:\\Users\\LHG\\.nuget\\packages\\",
+        "outputPath": "D:\\c\\API\\cwqAPI\\cwqAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LHG\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

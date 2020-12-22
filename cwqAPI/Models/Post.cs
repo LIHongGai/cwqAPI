@@ -12,7 +12,7 @@ namespace cwqAPI.Models
         public string Content { get; set; }//内容
         public string Username { get; set; }//用户名
         public DateTime Pubdate { get; set; }//发布时间
-        public bool Gender { get; set; } //性别
+        public string Gender { get; set; } //性别
         public int Grade { get; set; } //等级
         
         public ICollection<Petpicture> petpictures { get; set; }//外键关系
