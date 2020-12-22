@@ -16,6 +16,7 @@ namespace cwqAPI
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            //中间键启动路由
             services.AddControllers();
         }
 
@@ -35,6 +36,7 @@ namespace cwqAPI
                 //{
                 //    await context.Response.WriteAsync("Hello World!");
                 //});
+                //中间键路由映射
                 endpoints.MapControllers();
             });
         }
