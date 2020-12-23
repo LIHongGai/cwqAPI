@@ -1,0 +1,4 @@
+add-migration  £¨ÐòºÅ£©
+
+¿ªÊ¼´´¿â
+update-database
